@@ -1,3 +1,5 @@
+**Altin Kalludra** · [Download CV (PDF)](https://github.com/ulasmango-cmd/atlascall-portfolio/raw/refs/heads/main/cv/Altin-Kalludra-CV.pdf)
+
 # WinCalc
 
 > A configure–price–quote application for PVC and aluminium windows and doors — configure a unit, see a live preview, get an itemized price, and issue a quotation, bill of materials, or PDF.
@@ -143,7 +145,7 @@ Known operational constraints of the current deployment:
 
 ## Ownership
 
-Built by **[ulasmango-cmd](https://github.com/ulasmango-cmd)**.
+Built by **[Altin Kalludra](https://github.com/ulasmango-cmd)**.
 
 - GitHub profile: https://github.com/ulasmango-cmd
 - Production source: private
