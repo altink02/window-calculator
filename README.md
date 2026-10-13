@@ -61,9 +61,9 @@ The interface follows the **Windows 11 Fluent** design language — Segoe UI typ
 - PDF generation for quotations and bills of materials
 
 **Infrastructure**
-- Frontend served from Vercel's edge network
-- API and background services hosted on Render
-- Managed PostgreSQL for production data
+- Express serves the built React frontend and API together on Render
+- Managed PostgreSQL for the deployed data layer
+- A split frontend/API deployment remains an optional topology
 
 ## Architecture
 
@@ -147,7 +147,7 @@ Known operational constraints of the current deployment:
 
 Built by **[Altin Kalludra](https://github.com/ulasmango-cmd)**.
 
-- GitHub profile: https://github.com/ulasmango-cmd
+- GitHub profile: [Altin Kalludra](https://github.com/ulasmango-cmd)
 - Production source: private
 
 ## License
